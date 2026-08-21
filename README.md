@@ -275,23 +275,39 @@ My goal is simple:
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iwancilibur&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwancilibur&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=iwancilibur&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent"
+    alt="Iwan Cilibur GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwancilibur&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    alt="Iwan Cilibur Top Languages"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iwancilibur&hide_border=true&theme=transparent" />
+  <img
+    src="https://streak-stats.demolab.com/?user=iwancilibur&hide_border=true&theme=transparent"
+    alt="Iwan Cilibur GitHub Streak"
+    height="180"
+  />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iwancilibur&hide_border=true&area=true&theme=github-compact" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iwancilibur&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"
+    alt="Iwan Cilibur GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
