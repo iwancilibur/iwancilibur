@@ -210,48 +210,6 @@ Combining **engineering, technology and education** to create practical learning
 
 > **From hardware to software, from sensors to cloud — building technology that solves real-world problems.**
 
-
-
-# 🛠️ Tech Stack
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=php,js,python,c,cpp,html,css,bash" />
-</p>
-
-### Frameworks & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap,mysql,git,github,linux,ubuntu,cloudflare,vscode" />
-</p>
-
-### Hardware & IoT
-
-<p align="left">
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=mqtt\&logoColor=white)
-
-</p>
-
----
-
-# 🔭 Current Focus
-
-Currently exploring and building systems around:
-
-* 🤖 **AI-powered applications**
-* 📡 **IoT monitoring & automation**
-* 🏫 **Digital school ecosystems**
-* 🌐 **Web-based SaaS platforms**
-* 🔐 **IoT & application security**
-* ☁️ **Cloud infrastructure & deployment**
-* 🧠 **AI + IoT integration**
-* 📊 **Real-time dashboards & analytics**
-
 ---
 
 # 🚀 Featured Projects
