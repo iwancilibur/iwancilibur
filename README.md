@@ -278,24 +278,27 @@ My goal is simple:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=iwancilibur&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent"
-    alt="Iwan Cilibur GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwancilibur&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    alt="Iwan Cilibur Top Languages"
-    height="180"
-  />
+
+<a href="https://github.com/iwancilibur">
+<img src="https://img.shields.io/github/followers/iwancilibur?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/iwancilibur?tab=repositories">
+<img src="https://img.shields.io/github/stars/iwancilibur?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
+</a>
+
+<a href="https://github.com/iwancilibur?tab=repositories">
+<img src="https://img.shields.io/github/repos/iwancilibur?style=for-the-badge&logo=github&label=Repositories" alt="GitHub Repositories"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=iwancilibur&hide_border=true&theme=transparent"
-    alt="Iwan Cilibur GitHub Streak"
-    height="180"
-  />
+
+<img src="https://img.shields.io/github/last-commit/iwancilibur/Sylvie-2021?style=for-the-badge&logo=github&label=Latest%20Activity" alt="Latest Activity"/>
+
+<img src="https://img.shields.io/github/commit-activity/y/iwancilibur/Sylvie-2021?style=for-the-badge&logo=git&label=Commit%20Activity" alt="Commit Activity"/>
+
 </p>
 
 ---
@@ -305,10 +308,27 @@ My goal is simple:
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=iwancilibur&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"
-    alt="Iwan Cilibur GitHub Activity Graph"
+    alt="Iwan Cilibur Contribution Graph"
     width="100%"
   />
 </p>
+
+---
+
+## 💻 Development Focus
+
+<p align="center">
+
+![IoT](https://img.shields.io/badge/IoT-ESP32%20%7C%20Arduino%20%7C%20MQTT-0A7EA4?style=for-the-badge)
+
+![Software](https://img.shields.io/badge/Software-PHP%20%7C%20MySQL%20%7C%20JavaScript-777BB4?style=for-the-badge)
+
+![AI](https://img.shields.io/badge/AI-Gemini%20%7C%20Computer%20Vision%20%7C%20LLM-412991?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-Debian%20%7C%20Ubuntu-E95420?style=for-the-badge)
+
+</p>
+
 
 ---
 
