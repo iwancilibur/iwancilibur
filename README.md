@@ -22,113 +22,195 @@ My work spans from designing embedded systems and IoT devices to developing web 
 
 I enjoy turning ideas into **real, working products** — from an ESP32 and a sensor on a breadboard to a scalable web application running in the cloud.
 
----
+---# 🧠 Core Expertise
 
-## 🚀 What I Do
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     IWAN CILIBUR                             │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🔧 HARDWARE        ESP32 · Arduino · STM32 · Sensors       │
-│       │                                                      │
-│       ▼                                                      │
-│  📡 IoT             MQTT · Automation · Monitoring          │
-│       │                                                      │
-│       ▼                                                      │
-│  💻 SOFTWARE        PHP · MySQL · JavaScript · Web Apps      │
-│       │                                                      │
-│       ▼                                                      │
-│  🤖 AI              Gemini · Computer Vision · AI Systems    │
-│       │                                                      │
-│       ▼                                                      │
-│  ☁️ CLOUD            Linux · Cloudflare · Web Server         │
-│       │                                                      │
-│       ▼                                                      │
-│  🎓 EDUCATION       Digital Learning · Training · LMS       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+### 🔧 Hardware & Embedded
 
----
+Building embedded systems from **prototype to production-ready solutions**.
 
-# 🧠 Core Expertise
+<p>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
+<img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white">
+</p>
 
-### 🔧 Hardware & Embedded Systems
+**Embedded Systems**
 
-* ESP32 / ESP32-S3
-* Arduino
-* STM32
-* NodeMCU / ESP8266
+* Microcontrollers & Firmware
 * Sensors & Actuators
 * RFID / NFC
 * Load Cell & HX711
 * DHT / Temperature & Humidity
-* Ultrasonic Sensors
-* Flowmeter
+* Ultrasonic & Flow Sensors
 * pH Sensors
 * Servo & Motor Control
 * DFPlayer Mini
-* WS2812B
-* PCA9685
+* WS2812B / PCA9685
 * Embedded Web Server
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📡 Internet of Things
 
+Designing **connected devices, monitoring systems and automation platforms**.
+
+<p>
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white">
+<img src="https://img.shields.io/badge/HTTP-005571?style=flat-square&logo=http&logoColor=white">
+<img src="https://img.shields.io/badge/IoT-0A7EA4?style=flat-square&logo=internetofthings&logoColor=white">
+</p>
+
+**IoT Engineering**
+
 * IoT Architecture
-* MQTT
+* MQTT Communication
 * HTTP / REST API
 * Real-time Monitoring
 * Device Control
 * Sensor Data Acquisition
-* IoT Dashboard
+* IoT Dashboards
 * Smart Automation
 * Remote Device Management
 * ESP32 ↔ Cloud Integration
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 💻 Software Engineering
+
+Developing **web applications, dashboards and backend systems**.
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+</p>
+
+**Software Development**
 
 * PHP Native
 * MySQL
 * JavaScript
-* HTML5
-* CSS3
+* HTML5 / CSS3
 * Bootstrap
 * AJAX
 * REST API
-* Chart.js
-* ECharts
+* Chart.js / ECharts
 * CKEditor
 * Responsive Web Applications
 * Dashboard Development
+* Database-driven Systems
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 Artificial Intelligence
 
+Exploring **AI-powered applications and intelligent automation**.
+
+<p>
+<img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
+
+**AI Engineering**
+
 * Generative AI
 * Google Gemini
-* AI Application Development
+* LLM Applications
+* AI Agents
 * Computer Vision
 * Machine Learning
 * AI-assisted Automation
-* LLM-based Applications
+* Intelligent Recommendation
 * AI + IoT Integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ☁️ Server & Infrastructure
 
-* Linux
-* Ubuntu
-* Debian
-* Apache
-* MySQL
+Managing **Linux servers, networking, deployment and cloud infrastructure**.
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+</p>
+
+**Infrastructure**
+
+* Linux / Ubuntu / Debian
+* Apache & Web Server
+* MySQL Administration
 * Cloudflare
 * Cloudflared Tunnel
-* Web Server Administration
-* Domain & DNS Configuration
+* Domain & DNS
 * Server Security
 * Deployment & Automation
 
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Technology & Education
+
+Combining **engineering, technology and education** to create practical learning experiences.
+
+<p>
+<img src="https://img.shields.io/badge/Robotics-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/IoT-0A7EA4?style=flat-square">
+<img src="https://img.shields.io/badge/Programming-3776AB?style=flat-square">
+<img src="https://img.shields.io/badge/AI-412991?style=flat-square">
+</p>
+
+**Teaching & Training**
+
+* Arduino & ESP32
+* Robotics
+* Internet of Things
+* Embedded Systems
+* Web Programming
+* PHP & MySQL
+* Computer Networking
+* Linux Server
+* Artificial Intelligence
+* Digital Technology
+
+</td>
+</tr>
+</table>
+
 ---
+
+### ⚡ Engineering Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp,c,python,php,js,html,css,mysql,bootstrap,linux,ubuntu,debian,cloudflare,git,github,vscode&perline=9" />
+
+</p>
+
+> **From hardware to software, from sensors to cloud — building technology that solves real-world problems.**
+
+
 
 # 🛠️ Tech Stack
 
